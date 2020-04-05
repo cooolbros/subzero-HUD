@@ -152,7 +152,7 @@
 		
 		"BlueTeamLabel"
 		{
-			"font"													"bh_Font24"
+			"font"													"Size 24"
 			"xpos"													"4"
 			"ypos"													"13"
 			"zpos"													"10"
@@ -161,7 +161,7 @@
 		}							
 		"BlueTeamScore"
 		{
-			"font"													"bh_Font40"
+			"font"													"Size 40"
 			"xpos"													"29"
 			"ypos"													"-9"
 			"zpos"													"3"
@@ -171,7 +171,7 @@
 		
 		"BlueTeamScoreDropshadow"
 		{
-			"font"													"bh_Font40"
+			"font"													"Size 40"
 			"textAlignment"											"east"
 			"xpos"													"30"
 			"ypos"													"-9"
@@ -183,7 +183,7 @@
 			
 		"RedTeamLabel"
 		{
-			"font"													"bh_Font24"
+			"font"													"Size 24"
 			"xpos"													"145"
 			"ypos"													"13"
 			"zpos"													"1"
@@ -193,7 +193,7 @@
 		
 		"RedTeamScore"
 		{
-			"font"													"bh_Font40"
+			"font"													"Size 40"
 			"xpos"													"117"
 			"ypos"													"-9"
 			"zpos"													"3"
@@ -203,7 +203,7 @@
 		
 		"RedTeamScoreDropShadow"
 		{
-			"font"													"bh_Font40"
+			"font"													"Size 40"
 			"xpos"													"118"
 			"ypos"													"-8"
 			"zpos"													"2"
@@ -235,7 +235,7 @@
 	
 	"TopPlayersLabel"
 	{	
-		"font"														"bh_Font10"
+		"font"														"Size 10"
 		"xpos"														"15"
 		"ypos"														"100"
 		"zpos"														"3"
@@ -245,7 +245,7 @@
 	
 	"PointsThisRoundLabel"
 	{	
-		"font"														"bh_Font10"
+		"font"														"Size 10"
 		"xpos"														"66"
 		"ypos"														"100"
 		"zpos"														"3"
@@ -373,7 +373,7 @@
 	
 	"KillStreakLeaderLabel"
 	{	
-		"font"														"bh_Font8"
+		"font"														"Size 8"
 		"xpos"														"15"
 		"ypos"														"164"
 		"zpos"														"3"
