@@ -121,7 +121,7 @@
 		"tall"														"30"
 		"textAlignment"												"center"	
 		"labelText"													"%bluescore%"
-		"font"														"bh_Font36"
+		"font"														"Size 36"
 		"fgcolor"													"bh_white"
 		
 		"if_hybrid"
@@ -180,7 +180,7 @@
 		"tall"														"30"
 		"textAlignment"												"center"	
 		"labelText"													"%redscore%"
-		"font"														"bh_Font36"
+		"font"														"Size 36"
 		"fgcolor"													"bh_white"		
 		
 		"if_hybrid"
@@ -250,7 +250,7 @@
 		"visible"													"1"
 		"enabled"													"1"
 		"textalignment"												"center"
-		"font"														"bh_Font14"
+		"font"														"Size 14"
 		"fgcolor"													"bh_white"
 		
 		"if_hybrid"
