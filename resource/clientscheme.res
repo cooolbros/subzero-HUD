@@ -53,6 +53,26 @@ Scheme
 				"antialias"		"1"
 			}
 		}
+		"Size 10"
+		{
+			"1"
+			{
+				"name"			"Renogare Soft"
+				"tall"			"10"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+		"Size 12"
+		{
+			"1"
+			{
+				"name"			"Renogare Soft"
+				"tall"			"10"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
 		"Size 18"
 		{
 			"1"

@@ -381,7 +381,7 @@
 		"CornerRadius"	 	 										"3"
 		"RightJustify"	 	 										"1"	// If 1, draw notices from the right
 
-		"TextFont"													"bh_Font12"
+		"TextFont"													"Size 12"
 
 		"TeamBlue"													"HUDBlueTeamSolid"
 		"TeamRed"													"HUDRedTeamSolid"

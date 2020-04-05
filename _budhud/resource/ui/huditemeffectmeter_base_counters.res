@@ -29,7 +29,7 @@
 		"tabPosition"												"0"
 		"labelText"													"#TF_Ball"
 		"textAlignment"												"center"
-		"font"														"bh_Font10"
+		"font"														"Size 10"
 		"fgcolor_override"											"bh_white"
 	}
 
@@ -69,7 +69,7 @@
 		"textAlignment"												"center"
 		"dulltext"													"0"
 		"brighttext"												"0"
-		"font"														"bh_Font20"
+		"font"														"Size 20"
 		"fgcolor_override"											"bh_white"
 	}
 }
