@@ -18,7 +18,7 @@
 		"PositiveColor"												"bh_Theme_TextMain"
 		"NegativeColor"												"bh_red"
 		"delta_lifetime"											".9"
-		"delta_item_font"											"bh_Font16"
+		"delta_item_font"											"Size 16"
 	}
 	
 	"AccountValue"
