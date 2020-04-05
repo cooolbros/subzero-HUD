@@ -28,7 +28,7 @@
 		{	
 			"ControlName"											"CExLabel"
 			"fieldName"												"FreezeLabelKiller2"
-			"font"													"bh_Font14"
+			"font"													"Size 14"
 			"xpos"													"42"
 			"ypos"													"169"
 			"zpos"													"1"

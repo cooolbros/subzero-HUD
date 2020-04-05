@@ -13,7 +13,7 @@
 		"enabled"													"1"
 		"labelText"													"%Health%"
 		"textAlignment"												"Center"	
-		"font"														"bh_Font14"
+		"font"														"Size 14"
 		"fgcolor"													"bh_white"
 	}
 }
