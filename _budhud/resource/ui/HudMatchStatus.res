@@ -14,7 +14,7 @@
 		"PositiveColor"												"bh_Theme_TextMain"
 		"NegativeColor"												"bh_red"
 		"delta_lifetime"											"0.8"
-		"delta_item_font"											"bh_Font18"
+		"delta_item_font"											"Size 18"
 		
 		////////////////////////////////////////////////////////////////////////////////////////////////////
 		// Using an anchor here requires a reloadscheme every game start up. else, overlapping occurs
@@ -267,7 +267,7 @@
 			{
 				"ypos"												"3"
 				"zpos"												"4"
-				"font"												"bh_Font10Drop"
+				"font"												"Size 10 Drop"
 				"fgcolor_override"									"bh_white"
 				"wide"												"12"
 				"tall"												"12"
