@@ -273,7 +273,7 @@
 
 		"xpos"														"0"
 		"ypos"														"-10"
-		"font"														"bh_Font12"
+		"font"														"Size 12"
 	}
 	
 	"MvMUpgradeImageScout"
@@ -295,7 +295,7 @@
 
 		"xpos"														"0"
 		"ypos"														"-10"
-		"font"														"bh_Font12"
+		"font"														"Size 12"
 	}
 	
 	"MvMUpgradeImageSolider"
@@ -317,7 +317,7 @@
 
 		"xpos"														"0"
 		"ypos"														"-10"
-		"font"														"bh_Font12"
+		"font"														"Size 12"
 	}
 	
 	"MvMUpgradeImagePyro"
@@ -339,7 +339,7 @@
 
 		"xpos"														"0"
 		"ypos"														"-10"
-		"font"														"bh_Font12"
+		"font"														"Size 12"
 	}
 	
 	"MvMUpgradeImageDemo"
@@ -361,7 +361,7 @@
 
 		"xpos"														"0"
 		"ypos"														"-10"
-		"font"														"bh_Font12"
+		"font"														"Size 12"
 	}
 	
 	"MvMUpgradeImageHeavy"
@@ -383,7 +383,7 @@
 
 		"xpos"														"0"
 		"ypos"														"-10"
-		"font"														"bh_Font12"
+		"font"														"Size 12"
 	}
 	
 	"MvMUpgradeImageEngineer"
@@ -405,7 +405,7 @@
 
 		"xpos"														"0"
 		"ypos"														"-10"
-		"font"														"bh_Font12"
+		"font"														"Size 12"
 	}
 	
 	"MvMUpgradeImageMedic"
@@ -427,7 +427,7 @@
 
 		"xpos"														"0"
 		"ypos"														"-10"
-		"font"														"bh_Font12"
+		"font"														"Size 12"
 	}
 	
 	"MvMUpgradeImageSniper"
@@ -449,7 +449,7 @@
 
 		"xpos"														"0"
 		"ypos"														"-10"
-		"font"														"bh_Font12"
+		"font"														"Size 12"
 	}
 	
 	"MvMUpgradeImageSpy"
