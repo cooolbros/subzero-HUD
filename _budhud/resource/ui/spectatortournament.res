@@ -205,7 +205,7 @@
 		"wide"														"400"
 		"tall"														"24"
 		"textAlignment"												"center"
-		"font"														"bh_Font14Drop"
+		"font"														"Size 14 Drop"
 		
 		if_mvm
 		{
@@ -220,7 +220,7 @@
 		"wide"														"380"
 		"tall"														"400"
 		"textAlignment"												"center"
-		"font"														"bh_Font14"
+		"font"														"Size 14"
 	
 		if_mvm
 		{
