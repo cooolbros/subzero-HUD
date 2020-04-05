@@ -438,7 +438,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Renogare Soft"
 				"tall"		"12"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -446,7 +446,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Renogare Soft"
 				"tall"		"13"	[$WIN32]
 				"tall"		"20"	[disabled]
 				"weight"	"900"
@@ -455,7 +455,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Renogare Soft"
 				"tall"		"14"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -464,7 +464,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Renogare Soft"
 				"tall"		"20"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -473,7 +473,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Renogare Soft"
 				"tall"		"24"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -482,14 +482,14 @@ Scheme
 			}
 			"6"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Renogare Soft"
 				"tall"		"12"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"900"
 			}
 			"7"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Renogare Soft"
 				"tall"		"12"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"800"
@@ -2180,7 +2180,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Lato Semibold"
+				"name"		"Renogare Soft"
 				"tall"		"7"
 				"weight"	"400"
 				"additive"	"0"

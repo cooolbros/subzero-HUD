@@ -43,6 +43,28 @@ Scheme
 	}
 	"Fonts"
 	{
+		"HudFontMediumSmall_Sunset"
+		{
+			"1"
+			{
+				"name"		"Renogare Soft"
+				"tall"		"18"
+				"weight"	"500"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"ScoreboardVerySmall_Sunset"
+		{
+			"1"
+			{
+				"name"		"Renogare Soft"
+				"tall"		"8"
+				"weight"	"400"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
 		"Size 8"
 		{
 			"1"
@@ -63,12 +85,55 @@ Scheme
 				"antialias"		"1"
 			}
 		}
-		"Size 12"
+		"Size 10 Drop"
 		{
 			"1"
 			{
 				"name"			"Renogare Soft"
 				"tall"			"10"
+				"weight"		"500"
+				"additive"  	"0"
+				"antialias"		"1"
+				"dropshadow"	"1"
+			}
+		}
+		"Size 12"
+		{
+			"1"
+			{
+				"name"			"Renogare Soft"
+				"tall"			"12"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+		"Size 14"
+		{
+			"1"
+			{
+				"name"			"Renogare Soft"
+				"tall"			"14"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+		"Size 14 Drop"
+		{
+			"1"
+			{
+				"name"			"Renogare Soft"
+				"tall"			"14"
+				"additive"  	"0"
+				"antialias"		"1"
+				"dropshadow"	"1"
+			}
+		}
+		"Size 16"
+		{
+			"1"
+			{
+				"name"			"Renogare Soft"
+				"tall"			"16"
 				"additive"  	"0"
 				"antialias"		"1"
 			}
@@ -93,12 +158,33 @@ Scheme
 				"antialias"		"1"
 			}
 		}
+		"Size 20 Outline"
+		{
+			"1"
+			{
+				"name"			"Renogare Soft"
+				"tall"			"20"
+				"additive"  	"0"
+				"antialias"		"1"
+				"outline"		"1"
+			}
+		}
 		"Size 24"
 		{
 			"1"
 			{
 				"name"			"Renogare Soft"
 				"tall"			"24"
+				"additive"  	"0"
+				"antialias"		"1"
+			}
+		}
+		"Size 36"
+		{
+			"1"
+			{
+				"name"			"Renogare Soft"
+				"tall"			"36"
 				"additive"  	"0"
 				"antialias"		"1"
 			}
