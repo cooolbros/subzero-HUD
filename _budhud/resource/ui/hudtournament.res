@@ -97,7 +97,7 @@
 				if_readymode
 				{
 					"xpos"											"1"
-					"font"											"bh_Font8"
+					"font"											"Size 8"
 				}
 				
 				if_mvm
@@ -139,7 +139,7 @@
 		"ypos"														"68"
 		"wide"														"500"
 		"tall"														"20"
-		"font"														"bh_Font10"
+		"font"														"Size 10"
 		"textAlignment"												"center"
 		
 		if_competitive
@@ -166,7 +166,7 @@
 		
 		"ControlName"												"Label"
 		"fieldName"													"bh_TournamentConditionLabelShadow"
-		"font"														"bh_Font10"
+		"font"														"Size 10"
 		"fgcolor_override"											"bh_Shadow"
 		"xpos"														"-1"
 		"ypos"														"-1"
@@ -185,7 +185,7 @@
 		"ypos"														"40"
 		"wide"														"500"
 		"tall"														"20"
-		"font"														"bh_Font16"
+		"font"														"Size 16"
 		"textAlignment"												"center"
 		
 		if_competitive
@@ -212,7 +212,7 @@
 
 		"ControlName"												"Label"
 		"fieldName"													"bh_TournamentInstructionsLabelShadow"
-		"font"														"bh_Font16"
+		"font"														"Size 16"
 		"fgcolor_override"											"bh_Shadow"
 		"xpos"														"-1"
 		"ypos"														"-1"
@@ -375,7 +375,7 @@
 		"ypos"														"29"
 		"wide"														"100"	
 		"textAlignment"												"west"
-		"font"														"bh_Font12"
+		"font"														"Size 12"
 		
 		if_competitive
 		{
@@ -402,7 +402,7 @@
 	
 		"ControlName"												"Label"
 		"fieldName"													"bh_TournamentREDLabelShadow"
-		"font"														"bh_Font12"
+		"font"														"Size 12"
 		"xpos"														"-1"
 		"ypos"														"-1"
 		"zpos"														"1"
@@ -439,7 +439,7 @@
 		"ypos"														"29"
 		"wide"														"100"	
 		"textAlignment"												"east"
-		"font"														"bh_Font12"
+		"font"														"Size 12"
 		
 		if_competitive
 		{
@@ -468,7 +468,7 @@
 	
 		"ControlName"												"Label"
 		"fieldName"													"bh_TournamentBLUELabelShadow"
-		"font"														"bh_Font12"
+		"font"														"Size 12"
 		"xpos"														"-1"
 		"ypos"														"-1"
 		"zpos"														"1"
@@ -510,6 +510,7 @@
 		"ypos"														"-15"
 		"wide"														"200"
 		"tall"														"20"
+		"font"														"Size 14"
 			
 		"pin_to_sibling" 											"TournamentInstructionsLabel"
 		"pin_corner_to_sibling" 									"PIN_TOPLEFT"
@@ -544,7 +545,7 @@
 	
 		"ControlName"												"Label"
 		"fieldName"													"bh_TournamentLabelShadow"
-		"font"														"HudFontSmall"
+		"font"														"Size 14"
 		"xpos"														"-1"
 		"ypos"														"-1"
 		"fgcolor_override"											"bh_Shadow"

@@ -82,7 +82,7 @@
 		"labeltext"													"%health%"
 		"textAlignment"												"center"
 		"fgcolor_override"											"bh_Health_Main"
-		"font"														"bh_Font20"
+		"font"														"Size 20"
 	}
 	
 	"PlayerStatusHealthValueShadow"
@@ -103,6 +103,6 @@
 		"labeltext"													"%health%"
 		"textAlignment"												"center"
 		"fgcolor_override"											"bh_Shadow"
-		"font"														"bh_Font20"
+		"font"														"Size 20"
 	}	
 }

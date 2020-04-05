@@ -62,7 +62,7 @@
 			{
 				"ControlName"										"CExLabel"
 				"fieldName"											"playername"
-				"font"												"bh_Font10"
+				"font"												"Size 10"
 				"xpos"												"42"
 				"ypos"												"0"
 				"zpos"												"5"
@@ -154,7 +154,7 @@
 			
 			"respawntime"
 			{
-				"font"												"bh_Font12"
+				"font"												"Size 12"
 				"xpos"												"12"
 				"ypos"												"-7"
 				"zpos"												"5"
@@ -167,7 +167,7 @@
 			
 			"chargeamount"
 			{
-				"font"												"bh_Font14"
+				"font"												"Size 14"
 				"xpos"												"108"
 				"ypos"												"1"
 				"zpos"												"6"
@@ -182,7 +182,7 @@
 			{
 				"ControlName"										"CExLabel"
 				"fieldName"											"chargeamountBG"
-				"font"												"bh_Font14"
+				"font"												"Size 14"
 				"xpos"												"109"
 				"ypos"												"2"
 				"zpos"												"6"

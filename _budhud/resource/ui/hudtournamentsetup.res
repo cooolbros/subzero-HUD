@@ -11,7 +11,7 @@
 
 	"TournamentSetupLabel"
 	{	
-		"font"														"bh_Font16"
+		"font"														"Size 16"
 		"fgcolor_override"											"bh_white"
 		"xpos"														"0"
 		"ypos"														"-6"
@@ -20,7 +20,7 @@
 
 	"TournamentTeamNameLabel"
 	{	
-		"font"														"bh_Font12"
+		"font"														"Size 12"
 		"fgcolor_override"											"bh_white"
 		"xpos"														"90"
 		"ypos"														"25"
@@ -59,7 +59,7 @@
 		"wide"														"70"
 		"tall"														"14"
 		"zpos"														"3"
-		"font"														"bh_Font12"
+		"font"														"Size 12"
 		"paintbackground"											"0"
 
 		"defaultBgColor_override"									"bh_ButtonBGDefault"
@@ -79,7 +79,7 @@
 		"wide"														"70"
 		"tall"														"14"
 		"zpos"														"3"
-		"font"														"bh_Font12"
+		"font"														"Size 12"
 		"fgcolor"													"FooterBGBlack"
 		"paintbackground"											"0"
 
