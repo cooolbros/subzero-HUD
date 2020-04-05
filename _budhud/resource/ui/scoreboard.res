@@ -117,7 +117,7 @@
 	{
 		"ControlName"												"CExLabel"
 		"fieldName"													"bh_ServerTimeLeftValue"
-		"font"														"bh_Font14Drop"
+		"font"														"Size 14"
 		"labelText"													"%servertime%"
 		"textAlignment"												"center"
 		"xpos"														"c-100"
@@ -200,7 +200,7 @@
 		//"wide"													"300"
 		//"tall"													"30"
 		//"textAlignment"											"center"
-		//"font"													"bh_Font18"
+		//"font"													"Size 18"
 		//"fgcolor"													"bh_blue"
 		
 		"ypos"														"r-6969"
@@ -283,7 +283,7 @@
 	//	"wide"														"300"
 	//	"tall"														"30"
 	//	"textAlignment"												"center"
-	//	"font"														"bh_Font18"
+	//	"font"														"Size 18"
 	//	"fgcolor"													"bh_red"
 	
 		"ypos"														"r-6969"
@@ -462,7 +462,7 @@
 			"ypos"													"2"
 			"wide"													"120"
 			"textalignment"											"east"
-			"font"													"bh_Font16"
+			"font"													"Size 16"
 		}
 		
 		"Kills"
@@ -474,7 +474,7 @@
 		{
 			"ControlName"											"CExLabel"
 			"fieldName"												"bh_Kills"
-			"font"													"bh_Font16"
+			"font"													"Size 16"
 			"labelText"												"%kills%"
 			"textAlignment"											"center"
 			"xpos"													"84"
@@ -494,7 +494,7 @@
 			"ypos"													"16"
 			"wide"													"120"
 			"textalignment"											"east"
-			"font"													"bh_Font16"
+			font""													"Size 16"
 		}
 		
 		"Assists"
@@ -506,7 +506,7 @@
 		{
 			"ControlName"											"CExLabel"
 			"fieldName"												"bh_Assists"
-			"font"													"bh_Font16"
+			"font"													"Size 16"
 			"labelText"												"%assists%"
 			"textAlignment"											"center"
 			"xpos"													"84"
@@ -526,7 +526,7 @@
 			"ypos"													"30"
 			"wide"													"120"
 			"textalignment"											"east"
-			"font"													"bh_Font16"
+			"font"													"Size 16"
 		}
 		
 		"Deaths"
@@ -538,7 +538,7 @@
 		{
 			"ControlName"											"CExLabel"
 			"fieldName"												"bh_Deaths"
-			"font"													"bh_Font16"
+			"font"													"Size 16"
 			"labelText"												"%deaths%"
 			"textAlignment"											"center"
 			"xpos"													"84"
@@ -568,7 +568,7 @@
 		{
 			"xpos"													"76"
 			"ypos"													"6"
-			"font"													"bh_Font14"
+			"font"													"Size 14"
 		}
 		
 		"Damage"
@@ -580,7 +580,7 @@
 		{
 			"ControlName"											"CExLabel"
 			"fieldName"												"bh_Damage"
-			"font"													"bh_Font14"
+			"font"													"Size 14"
 			"labelText"												"%damage%"
 			"textAlignment"											"west"
 			"xpos"													"177"
@@ -598,7 +598,7 @@
 		{
 			"xpos"													"76"
 			"ypos"													"26"
-			"font"													"bh_Font14"
+			"font"													"Size 14"
 		}
 		
 		"Healing"
@@ -610,7 +610,7 @@
 		{
 			"ControlName"											"CExLabel"
 			"fieldName"												"bh_Healing"
-			"font"													"bh_Font14"
+			"font"													"Size 14"
 			"labelText"												"%healing%"
 			"textAlignment"											"west"
 			"xpos"													"177"
@@ -628,7 +628,7 @@
 		{
 			"ControlName"											"CExLabel"
 			"fieldName"												"bh_Captures"
-			"font"													"ScoreboardVerySmall"
+			"font"													"ScoreboardVerySmall_Sunset"
 			"labelText"												"%captures%"
 			"textAlignment"											"west"
 			"xpos"													"305"
@@ -646,7 +646,7 @@
 		{
 			"ControlName"											"CExLabel"
 			"fieldName"												"bh_Defenses"
-			"font"													"ScoreboardVerySmall"
+			"font"													"ScoreboardVerySmall_Sunset"
 			"labelText"												"%defenses%"
 			"textAlignment"											"west"
 			"xpos"													"305"
@@ -664,7 +664,7 @@
 		{
 			"ControlName"											"CExLabel"
 			"fieldName"												"bh_Dominations"
-			"font"													"ScoreboardVerySmall"
+			"font"													"ScoreboardVerySmall_Sunset"
 			"labelText"												"%dominations%"
 			"textAlignment"											"west"
 			"xpos"													"305"
@@ -682,7 +682,7 @@
 		{
 			"ControlName"											"CExLabel"
 			"fieldName"												"bh_Revenge"
-			"font"													"ScoreboardVerySmall"
+			"font"													"ScoreboardVerySmall_Sunset"
 			"labelText"												"%revenge%"
 			"textAlignment"											"west"
 			"xpos"													"305"
@@ -700,7 +700,7 @@
 		{
 			"ControlName"											"CExLabel"
 			"fieldName"												"bh_Invuln"
-			"font"													"ScoreboardVerySmall"
+			"font"													"ScoreboardVerySmall_Sunset"
 			"labelText"												"%invulns%"
 			"textAlignment"											"west"
 			"xpos"													"425"
@@ -718,7 +718,7 @@
 		{
 			"ControlName"											"CExLabel"
 			"fieldName"												"bh_Headshots"
-			"font"													"ScoreboardVerySmall"
+			"font"													"ScoreboardVerySmall_Sunset"
 			"labelText"												"%headshots%"
 			"textAlignment"											"west"
 			"xpos"													"425"
@@ -736,7 +736,7 @@
 		{
 			"ControlName"											"CExLabel"
 			"fieldName"												"bh_Teleports"
-			"font"													"ScoreboardVerySmall"
+			"font"													"ScoreboardVerySmall_Sunset"
 			"labelText"												"%teleports%"
 			"textAlignment"											"west"
 			"xpos"													"425"
@@ -754,7 +754,7 @@
 		{
 			"ControlName"											"CExLabel"
 			"fieldName"												"bh_Destruction"
-			"font"													"ScoreboardVerySmall"
+			"font"													"ScoreboardVerySmall_Sunset"
 			"labelText"												"%destruction%"
 			"textAlignment"											"west"
 			"xpos"													"425"
@@ -772,7 +772,7 @@
 		{
 			"ControlName"											"CExLabel"
 			"fieldName"												"bh_Backstabs"
-			"font"													"ScoreboardVerySmall"
+			"font"													"ScoreboardVerySmall_Sunset"
 			"labelText"												"%backstabs%"
 			"textAlignment"											"west"
 			"xpos"													"545"
@@ -790,7 +790,7 @@
 		{
 			"ControlName"											"CExLabel"
 			"fieldName"												"bh_Bonus"
-			"font"													"ScoreboardVerySmall"
+			"font"													"ScoreboardVerySmall_Sunset"
 			"labelText"												"%bonus%"
 			"textAlignment"											"west"
 			"xpos"													"545"
@@ -808,7 +808,7 @@
 		{
 			"ControlName"											"CExLabel"
 			"fieldName"												"bh_Support"
-			"font"													"ScoreboardVerySmall"
+			"font"													"ScoreboardVerySmall_Sunset"
 			"labelText"												"%support%"
 			"textAlignment"											"west"
 			"xpos"													"545"
