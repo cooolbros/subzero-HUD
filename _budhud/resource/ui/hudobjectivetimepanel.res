@@ -56,7 +56,7 @@
 		"pin_corner_to_sibling" 									"PIN_TOPCENTER"
 		"pin_to_sibling_corner" 									"PIN_TOPCENTER"	
 	
-		"font"														"bh_Font16"
+		"font"														"Size 16"
 		"xpos"														"cs-0.5"
 		"ypos"														"5"
 		"wide"														"f0"
@@ -76,7 +76,7 @@
 		"pin_corner_to_sibling" 									"PIN_TOPCENTER"
 		"pin_to_sibling_corner" 									"PIN_TOPCENTER"	
 	
-		"font"														"bh_Font10"
+		"font"														"Size 10"
 		"xpos"														"cs-0.5"
 		"ypos"														"5"
 		"wide"														"f0"
@@ -96,7 +96,7 @@
 		"pin_corner_to_sibling" 									"PIN_TOPCENTER"
 		"pin_to_sibling_corner" 									"PIN_TOPCENTER"	
 	
-		"font"														"bh_Font14"
+		"font"														"Size 14"
 		"xpos"														"cs-0.5"
 		"ypos"														"5"
 		"wide"														"f0"
