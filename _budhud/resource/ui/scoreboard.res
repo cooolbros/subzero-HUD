@@ -494,7 +494,7 @@
 			"ypos"													"16"
 			"wide"													"120"
 			"textalignment"											"east"
-			font""													"Size 16"
+			"font"													"Size 16"
 		}
 		
 		"Assists"
