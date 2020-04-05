@@ -28,7 +28,7 @@
 	
 	"TargetDataLabel"
 	{
-		"font"														"bh_Font10Drop"
+		"font"														"Size 10 Drop"
 		"xpos"														"0"
 		"ypos"														"16"
 		"wide"														"250"
