@@ -61,7 +61,7 @@
 		"wide"														"80"
 		"tall"														"80"
 		"textAlignment"												"north-west"
-		"font"														"bh_Font10"
+		"font"														"Size 10"
 		"armedfgcolor_override"										"bh_Theme_TextMain"
 		"defaultfgcolor_override"									"bh_white"
 	}
@@ -75,7 +75,7 @@
 		"wide"														"80"
 		"tall"														"80"
 		"textAlignment"												"center"
-		"font"														"bh_Font20"
+		"font"														"Size 20"
 		"fgcolor_override"											"bh_white"
 	}	
 	
@@ -108,7 +108,7 @@
 		"wide"														"80"
 		"tall"														"80"
 		"textAlignment"												"north-east"
-		"font"														"bh_Font10"
+		"font"														"Size 10"
 		"armedfgcolor_override"										"bh_Theme_TextMain"
 		"defaultfgcolor_override"									"bh_white"
 	}	
@@ -122,7 +122,7 @@
 		"wide"														"80"
 		"tall"														"80"
 		"textAlignment"												"center"
-		"font"														"bh_Font20"
+		"font"														"Size 20"
 		"fgcolor_override"											"bh_white"
 	}	
 	
@@ -155,7 +155,7 @@
 		"wide"														"80"
 		"tall"														"80"
 		"textAlignment"												"south-east"
-		"font"														"bh_Font10"
+		"font"														"Size 20"
 		"armedfgcolor_override"										"bh_Theme_TextMain"
 		"defaultfgcolor_override"									"bh_white"
 		"labeltext"													"&R"
@@ -182,7 +182,7 @@
 		"paintborder"												"0"
 		"command"													"jointeam auto"
 		"associated_model"											"autodoor"
-		"font"														"bh_Font16"
+		"font"														"Size 16"
 		"armedfgcolor_override"										"bh_Theme_TextMain"
 		"defaultfgcolor_override"									"bh_white"
 	}
@@ -216,7 +216,7 @@
 		"wide"														"80"
 		"tall"														"80"
 		"textAlignment"												"south-west"
-		"font"														"bh_Font10"
+		"font"														"Size 10"
 		"armedfgcolor_override"										"bh_Theme_TextMain"
 		"defaultfgcolor_override"									"bh_white"
 		"labeltext"													"&E"
@@ -243,7 +243,7 @@
 		"paintborder"												"0"
 		"command"													"jointeam spectate"
 		"associated_model"											"spectate"	
-		"font"														"bh_Font16"
+		"font"														"Size 16"
 		"armedfgcolor_override"										"bh_Theme_TextMain"
 		"defaultfgcolor_override"									"bh_white"
 	}
@@ -283,7 +283,7 @@
 		"labelText"													"#bh_Back_QK"
 		"textAlignment"												"center"
 		"Command"													"cancelmenu"
-		"font"														"bh_Font12"
+		"font"														"Size 12"
 		"paintbackground"											"0"
 		"armedfgcolor_override"										"bh_Theme_TextMain"
 		"defaultfgcolor_override"									"bh_white"
