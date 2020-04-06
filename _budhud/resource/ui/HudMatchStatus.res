@@ -1,5 +1,13 @@
 "Resource/UI/HudMatchStatus.res"
 {
+	"CountdownLabel"
+	{
+		"font"														"Size 24"
+	}
+	"CountdownLabelShadow"
+	{
+		"font"														"Size 24"
+	}
 	"ObjectiveStatusTimePanel"
 	{
 		"xpos"														"cs-0.5"
@@ -25,6 +33,7 @@
 			"ypos"													"7"
 			"wide"													"f0"
 			"tall"													"20"
+			"font"													"HudFontMediumSmall_Sunset"
 			"bgcolor_override"										"bh_gray_t"
 			"proportionalToParent"									"1"
 			

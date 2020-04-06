@@ -317,7 +317,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelValue"
-			"font"			"HudFontMediumSmall_Sunset"
+			"font"			"HudFontMediumSmall"
 			"font_disabled"	"HudFontSmall"
 			"font_disabled"	"HudFontMedium"
 			"fgcolor"		"TanLight"
