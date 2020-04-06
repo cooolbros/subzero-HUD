@@ -76,7 +76,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TargetNameLabel"
-		"font"			"Size 16"
+		"font"			"HudFontSmall"
 		"font_disabled"	"TFFontLarge"
 		"xpos"			"8"
 		"xpos_disabled"	"30"

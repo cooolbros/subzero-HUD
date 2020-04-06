@@ -24,6 +24,7 @@
 		"ypos"														"1"
 		"wide"														"280"
 		"tall"														"16"
+		"font"														"Size 16"
 	}
 	
 	"TargetDataLabel"
