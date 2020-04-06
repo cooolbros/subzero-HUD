@@ -15,6 +15,7 @@
 			"ypos"													"0"
 			"wide"													"50"
 			"tall"													"20"
+			"font"													"HudFontMediumSmall_Sunset"
 		}
 	}
 	
@@ -33,6 +34,7 @@
 			"ypos"													"0"
 			"wide"													"50"
 			"tall"													"20"
+			"font"													"HudFontMediumSmall_Sunset"
 			"fgcolor_override"										"bh_white"
 		}
 	}	
