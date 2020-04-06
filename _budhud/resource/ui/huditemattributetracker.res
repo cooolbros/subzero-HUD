@@ -6,6 +6,7 @@
 		
 		"Header"
 		{
+			"font"													"Size 10"
 			"fgcolor_override"										"bh_white"
 		}
 		
