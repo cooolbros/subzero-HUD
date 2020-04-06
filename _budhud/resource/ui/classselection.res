@@ -173,6 +173,7 @@
 		
 		"xpos"														"295"
 		"ypos"														"0"
+		"font"														"Size 12"
 	}
 	
 	"soldier"
@@ -183,6 +184,7 @@
 		
 		"xpos"														"235"
 		"ypos"														"0"
+		"font"														"Size 12"
 	}
 	
 	"pyro"
@@ -193,6 +195,7 @@
 		
 		"xpos"														"175"
 		"ypos"														"0"
+		"font"														"Size 12"
 	}
 	
 	"demoman"
@@ -203,6 +206,7 @@
 		
 		"xpos"														"115"
 		"ypos"														"0"
+		"font"														"Size 12"
 	}
 	
 	"heavyweapons"
@@ -213,6 +217,7 @@
 		
 		"xpos"														"55"
 		"ypos"														"0"
+		"font"														"Size 12"
 	}
 	
 	"engineer"
@@ -223,6 +228,7 @@
 		
 		"xpos"														"-5"
 		"ypos"														"0"
+		"font"														"Size 12"
 	}
 	
 	"medic"
@@ -233,6 +239,7 @@
 		
 		"xpos"														"-65"
 		"ypos"														"0"
+		"font"														"Size 12"
 	}
 	
 	"sniper"
@@ -243,6 +250,7 @@
 		
 		"xpos"														"-125"
 		"ypos"														"0"
+		"font"														"Size 12"
 	}
 	
 	"spy"
@@ -253,6 +261,7 @@
 		
 		"xpos"														"-185"
 		"ypos"														"0"
+		"font"														"Size 12"
 	}
 	
 	"random"
@@ -263,6 +272,7 @@
 		
 		"xpos"														"-245"
 		"ypos"														"-13"
+		"font"														"Size 12"
 	}
 	
 	"numscout"
