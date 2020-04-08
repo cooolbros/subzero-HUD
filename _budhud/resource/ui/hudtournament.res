@@ -575,8 +575,8 @@
 		"zpos"														"-1"
 		"wide"														"100"
 		"tall"														"100"
-		"visible"													"1"
-		"enabled"													"1"
+		"visible"													"0"
+		"enabled"													"0"
 		"image"														"\replay\thumbnails\tyrone"
 		
 		if_readymode
