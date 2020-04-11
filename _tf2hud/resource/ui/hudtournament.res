@@ -38,7 +38,7 @@
 			"team2_player_delta_x"			"52"
 		}
 		
-		disabled_competitive
+		if_competitive
 		{
 			"xpos"							"cs-0.5"
 			"ypos"							"0"
@@ -80,7 +80,7 @@
 			"scaleImage"	"1"
 			"proportionaltoparent"	"1"
 
-			disabled_competitive
+			if_competitive
 			{
 				"visible"		"1"
 			}
@@ -102,7 +102,7 @@
 				"tall"		"35"
 			}
 						
-			disabled_competitive
+			if_competitive
 			{
 				"wide"		"45"
 				"tall"		"29"
@@ -140,7 +140,7 @@
 					"font"				"PlayerPanelPlayerName"
 				}
 
-				disabled_competitive
+				if_competitive
 				{
 					"xpos"				"4"
 					"ypos"				"21"
@@ -184,7 +184,7 @@
 					"image"			"../vgui/hud_connecting"
 				}
 
-				disabled_competitive
+				if_competitive
 				{
 					"xpos"			"4"
 					"ypos"			"4"
@@ -223,7 +223,7 @@
 					"visible"		"1"
 				}
 
-				disabled_competitive
+				if_competitive
 				{
 					"xpos"			"4"
 					"ypos"			"4"
@@ -256,7 +256,7 @@
 				"HealthDeathWarningColor"	"HUDDeathWarning"
 				"TextColor"					"HudOffWhite"
 				
-				disabled_competitive
+				if_competitive
 				{
 					"wide"			"p0.64"
 					"tall"			"p0.96"
@@ -291,7 +291,7 @@
 					"visible"		"1"
 				}
 				
-				disabled_competitive
+				if_competitive
 				{
 					"xpos"			"28"
 					"ypos"			"5"
@@ -328,7 +328,7 @@
 					"visible"		"1"
 				}
 
-				disabled_competitive
+				if_competitive
 				{
 					"xpos"			"30"
 					"ypos"			"7"
@@ -361,7 +361,7 @@
 				"textAlignment"	"west"
 				//"fgcolor"		"235 226 202 255"
 				
-				disabled_competitive
+				if_competitive
 				{
 					"xpos"			"6"
 					"ypos"			"7.5"
@@ -394,7 +394,7 @@
 					"visible"		"0"
 				}
 				
-				disabled_competitive
+				if_competitive
 				{
 					"xpos"			"22"
 					"ypos"			"15"
@@ -421,7 +421,7 @@
 				"textAlignment"	"north-west"
 				//"fgcolor"		"235 226 202 255"
 				
-				disabled_competitive
+				if_competitive
 				{
 					"wide"			"p0.9"
 					"tall"			"p0.22"
@@ -458,7 +458,7 @@
 			"visible"		"0"
 		}
 		
-		disabled_competitive
+		if_competitive
 		{
 			"xpos"			"cs-0.5"
 			"ypos"			"12"
@@ -496,7 +496,7 @@
 			"visible"		"0"
 		}
 
-		disabled_competitive
+		if_competitive
 		{
 			"xpos"			"cs-0.5"
 			"visible"		"0"
@@ -536,7 +536,7 @@
 			"visible"		"0"
 		}
 
-		disabled_competitive
+		if_competitive
 		{
 			"xpos"			"cs-0.5"
 			"visible"		"0"
@@ -572,7 +572,7 @@
 			"visible"		"0"
 		}
 
-		disabled_competitive
+		if_competitive
 		{
 			"xpos"			"cs-0.5"
 			"visible"		"0"
@@ -608,7 +608,7 @@
 			"visible"		"0"
 		}
 
-		disabled_competitive
+		if_competitive
 		{
 			"xpos"			"cs-0.5"
 			"visible"		"0"
@@ -648,7 +648,7 @@
 			"visible"		"0"
 		}
 
-		disabled_competitive
+		if_competitive
 		{
 			"xpos"			"cs-0.5"
 			"visible"		"0"
@@ -683,7 +683,7 @@
 			"visible"		"0"
 		}
 
-		disabled_competitive
+		if_competitive
 		{
 			"xpos"			"370"
 			"visible"		"0"
@@ -718,7 +718,7 @@
 			"visible"		"0"
 		}
 
-		disabled_competitive
+		if_competitive
 		{
 			"xpos"			"325"
 			"visible"		"0"
@@ -754,7 +754,7 @@
 			"visible"		"0"
 		}
 
-		disabled_competitive
+		if_competitive
 		{
 			"xpos"			"c-45"
 			"ypos"			"18"
@@ -799,7 +799,7 @@
 			"visible"		"0"
 		}
 
-		disabled_competitive
+		if_competitive
 		{
 			"visible"		"0"
 		}
@@ -838,7 +838,7 @@
 			"zpos"			"3"
 		}
 
-		disabled_competitive
+		if_competitive
 		{
 			"font"			"HudFontSmallishBold"
 			"xpos"			"cs-0.5"
@@ -889,7 +889,7 @@
 			"fgcolor"		"Black"
 		}
 
-		disabled_competitive
+		if_competitive
 		{
 			"font"			"HudFontSmallishBold"
 			"xpos"			"cs-0.5"
@@ -937,7 +937,7 @@
 			"tall"			"22"
 		}
 
-		disabled_competitive
+		if_competitive
 		{
 			"xpos"			"236"
 			"ypos"			"106"
@@ -976,7 +976,7 @@
 		"draw_corner_height" 	"5"	
 		"proportionaltoparent"	"1"
 
-		disabled_competitive
+		if_competitive
 		{
 			"xpos"			"cs-0.5"
 			"ypos"			"150"
@@ -1008,7 +1008,7 @@
 		"textAlignment"		"center"
 		"proportionaltoparent"	"1"
 
-		disabled_competitive
+		if_competitive
 		{
 			"xpos"			"cs-0.5"
 			"ypos"			"cs-0.1"
@@ -1043,7 +1043,7 @@
 		"fgcolor"		"Black"
 		"proportionaltoparent"	"1"
 
-		disabled_competitive
+		if_competitive
 		{
 			"xpos"			"cs-0.48"
 			"ypos"			"cs-0.08"
