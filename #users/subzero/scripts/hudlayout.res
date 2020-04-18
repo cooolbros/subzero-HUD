@@ -10,4 +10,10 @@
 		"wide"														"f0"
 		"tall"														"f0"
 	}
+	"HudControlPointIcons"
+	{
+		"separator_width"			"5"
+		"separator_height"			"5"
+		"height_offset"				"0"
+	}
 }
