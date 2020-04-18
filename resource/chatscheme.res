@@ -13,10 +13,10 @@ Scheme
 	{
 		RichText.SelectedTextColor									"255 255 255 255"
 		RichText.SelectedBgColor									"150 150 150 255"
-		
+
 		TextEntry.SelectedTextColor									"255 255 255 255"
 		TextEntry.SelectedBgColor									"150 150 150 255"
-		
+
 		ScrollBar.Wide												"14"
 	}
 
@@ -26,7 +26,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"												"Verdana"
+				"name"												"Renogare Soft"
 				"tall"												"15"
 				"weight"											"500"
 				"yres"												"480 599"
@@ -34,7 +34,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"												"Verdana"
+				"name"												"Renogare Soft"
 				"tall"												"17"
 				"weight"											"500"
 				"yres"												"600 767"
@@ -42,7 +42,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"												"Verdana"
+				"name"												"Renogare Soft"
 				"tall"												"18"
 				"weight"											"500"
 				"yres"												"768 1023"
@@ -50,7 +50,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"												"Verdana"
+				"name"												"Renogare Soft"
 				"tall"												"20"
 				"weight"											"500"
 				"yres"												"1024 1199"
@@ -58,7 +58,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"												"Verdana"
+				"name"												"Renogare Soft"
 				"tall"												"25"
 				"weight"											"500"
 				"yres"												"1200 10000"
