@@ -20,7 +20,7 @@ Scheme
 				"antialias"		"1"
 			}
 		}
-		
+
 		"xHairCircleOutline"
 		{
 			"1"
@@ -43,7 +43,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		
+
 		"Crosshairs10"
 		{
 			"1"
@@ -54,7 +54,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		
+
 		"Crosshairs12"
 		{
 			"1"
@@ -65,7 +65,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		
+
 		"Crosshairs14"
 		{
 			"1"
@@ -76,7 +76,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		
+
 		"Crosshairs16"
 		{
 			"1"
@@ -87,7 +87,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		
+
 		"Crosshairs18"
 		{
 			"1"
@@ -110,7 +110,7 @@ Scheme
 				"outline"		"1"
 			}
 		}
-		
+
 		"Crosshairs20"
 		{
 			"1"
@@ -121,7 +121,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		
+
 		"Crosshairs22"
 		{
 			"1"
@@ -132,7 +132,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		
+
 		"Crosshairs24"
 		{
 			"1"
@@ -143,7 +143,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		
+
 		"CrosshairsOutline24"
 		{
 			"1"
@@ -155,7 +155,7 @@ Scheme
 				"outline"		"1"
 			}
 		}
-		
+
 		"Crosshairs26"
 		{
 			"1"
@@ -166,7 +166,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		
+
 		"CrosshairsOutline26"
 		{
 			"1"
@@ -178,7 +178,7 @@ Scheme
 				"outline"		"1"
 			}
 		}
-		
+
 		"Crosshairs28"
 		{
 			"1"
@@ -189,7 +189,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		
+
 		"Crosshairs30"
 		{
 			"1"
@@ -200,7 +200,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		
+
 		"Crosshairs32"
 		{
 			"1"
@@ -223,7 +223,7 @@ Scheme
 				"outline"		"1"
 			}
 		}
-		
+
 		"Crosshairs34"
 		{
 			"1"
@@ -234,7 +234,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		
+
 		"CrosshairsOutline34"
 		{
 			"1"
@@ -246,7 +246,7 @@ Scheme
 				"outline"		"1"
 			}
 		}
-		
+
 		"Crosshairs36"
 		{
 			"1"
@@ -257,7 +257,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		
+
 		"Crosshairs38"
 		{
 			"1"
@@ -268,7 +268,7 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		
+
 		"Crosshairs40"
 		{
 			"1"
@@ -279,10 +279,10 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
-		
+
 		////////////////////////////////////////////////////////////////////////////////////////////////////
 		// HUD CROSSHAIRS - Thin Cross
-		////////////////////////////////////////////////////////////////////////////////////////////////////		
+		////////////////////////////////////////////////////////////////////////////////////////////////////
 		"Symbol16"
 		{
 			"1"
@@ -293,7 +293,7 @@ Scheme
 				"antialias"		"1"
 			}
 		}
-		
+
 		"Symbol24"
 		{
 			"1"
@@ -304,7 +304,7 @@ Scheme
 				"antialias"		"1"
 			}
 		}
-		
+
 		"SymbolOutline24"
 		{
 			"1"
@@ -316,7 +316,7 @@ Scheme
 				"outline"		"1"
 			}
 		}
-		
+
 		"Symbol32"
 		{
 			"1"
@@ -327,7 +327,7 @@ Scheme
 				"antialias"		"1"
 			}
 		}
-		
+
 		"Symbol40"
 		{
 			"1"
@@ -338,7 +338,7 @@ Scheme
 				"antialias"		"1"
 			}
 		}
-		
+
 		////////////////////////////////////////////////////////////////////////////////////////////////////
 		// HUD CROSSHAIRS - Garm3n
 		////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -393,7 +393,7 @@ Scheme
 				"antialias"		"1"
 			}
 		}
-		
+
 	////////////////////////////////////////////////////////////////////////////////////////////////////
 	// HUD CROSSHAIRS (whayay)
 	////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -469,7 +469,7 @@ Scheme
                 "outline"    	"1"
             }
         }
-		
+
 	////////////////////////////////////////////////////////////////////////////////////////////////////
 	// HUD CROSSHAIRS (Knuckles)
 	////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -1376,7 +1376,7 @@ Scheme
 			}
 		}
 	}
-	
+
 	////////////////////////////////////////////////////////////////////////////////////////////////////
 	// BUDHUD FONT ENTRIES
 	////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -1387,35 +1387,41 @@ Scheme
 			"font" "resource/fonts/crosshairs-fog.ttf"
 			"name" "Crosshairs Regular"
 		}
-		
+
 		"9" // Thin Cross
 		{
 			"font" "resource/fonts/crosshairs-thincross.ttf"
 			"name" "Symbol"
 		}
-		
+
 		"10" // Garm3n's Crosshairs
 		{
 			"font" "resource/fonts/crosshairs-garm3n.ttf"
 			"name" "Garm3nFont"
 		}
-		
+
 		"11" // whayay's Crosshairs
 		{
 			"font"	"resource/fonts/crosshairs-whayay.ttf"
 			"name"	"Crosshair"
 		}
-		
+
 		"12" // Knuckle's Crosshairs
 		{
 			"font" "resource/fonts/crosshairs-knuckles.ttf"
 			"name" "KnucklesCrosses"
 		}
-		
+
 		"14" // budhud Font
 		{
 			"font"	"resource/fonts/Lato-Semibold.ttf"
 			"name"	"Lato Semibold"
+		}
+
+		"15" // Sunset Font
+		{
+			"font"	"resource/fonts/Renogare.ttf"
+			"name"	"Renogare Soft"
 		}
 	}
 }
