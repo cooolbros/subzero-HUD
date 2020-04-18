@@ -1,3 +1,4 @@
+	#base	"..\..\#users\subzero\resource\ui\hudplayerhealth.res"
 	#base	"..\..\#users\truktruk\resource\ui\hudplayerhealth.res"
 	#base	"..\..\#users\ly_dee\resource\ui\hudplayerhealth.res"
 	#base	"..\..\#customization\_enabled\bh_size_health.res"
