@@ -2,6 +2,6 @@
 {
 	"CHealthAccountPanel"
 	{
-		"delta_item_x"												"35"
+		"delta_item_font"											""
 	}
 }
