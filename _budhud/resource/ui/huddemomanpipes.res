@@ -33,7 +33,7 @@
 		{
 			"xpos"													"c-6"
 			"ypos"													"c120"
-			"font"													"bh_Font18"
+			"font"													"bh_Font24"
 			"fgcolor"												"bh_white"
 		}
 		
@@ -43,9 +43,9 @@
 			"pin_corner_to_sibling" 								"PIN_TOPCENTER"
 			"pin_to_sibling_corner" 								"PIN_TOPCENTER"	
 			
-			"xpos"													"-1000"
-			"ypos"													"-1000"
-			"font"													"bh_Font18"
+			"xpos"													"-1"
+			"ypos"													"-1"
+			"font"													"bh_Font24"
 			"fgcolor"												"bh_Shadow"
 		}
 	}
@@ -64,7 +64,7 @@
 		{
 			"xpos"													"c-6"
 			"ypos"													"c120"
-			"font"													"bh_Font18"
+			"font"													"bh_Font24"
 			"fgcolor"												"bh_white"
 		}
 		
@@ -74,9 +74,9 @@
 			"pin_corner_to_sibling" 								"PIN_TOPCENTER"
 			"pin_to_sibling_corner" 								"PIN_TOPCENTER"	
 		
-			"xpos"													"-1000"
-			"ypos"													"-1000"
-			"font"													"bh_Font18"
+			"xpos"													"-1"
+			"ypos"													"-1"
+			"font"													"bh_Font24"
 			"fgcolor"												"bh_Shadow"
 		}
 	}
