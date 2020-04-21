@@ -45,5 +45,32 @@ Scheme
 		"Crosshair Pulse"						"245 70 70 255"
 
 		"HitMarker"								"235 235 235 255"
+
+		"White"									"235 235 235 255"
+		"WhiteSolid"							"255 255 255 255"
+		"WhiteTransparent"						"235 235 235 180"
+		"WhiteMoreTransparent"					"235 235 235 150"
+
+		"WhiteGray"								"185 185 185 255"
+
+		"Black"									"35 35 35 255"
+		"BlackSolid"							"0 0 0 255"
+		"BlackTransparent"						"0 0 0 150"
+		"BlackLightTransparent"					"0 0 0 50"
+
+		"Gray"									"150 150 150 255"
+		"GrayMedium"							"130 130 130 255"
+		"GrayDark"								"100 100 100 255"
+		"GrayTransparent"						"175 175 175 150"
+
+		"Blue"									"100 170 225 255"
+		"BlueLight"								"150 200 220 255"
+
+		"RedSolid"								"220 30 30 255"
+		"RedLight"								"245 70 70 255"
+
+		"OrangeLight"							"255 200 55 255"
+
+		"GreenLight"							"185 220 25 255"
 	}
 }

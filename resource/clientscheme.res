@@ -17,6 +17,8 @@
 	#base	"../#users/ly_dee/#customization/bh_colors.res"
 	#base	"../#users/truktruk/#customization/bh_colors.res"
 	#base	"../#users/subzero/#customization/bh_colors.res"
+	#base	"../#users/subzero/#customization/bh_borders.res"
+	#base	"../#users/subzero/#customization/bh_fonts.res"
 
 	////////////////////////////////////////////////////////////////////////////////////////////////////
 	// Core HUD
